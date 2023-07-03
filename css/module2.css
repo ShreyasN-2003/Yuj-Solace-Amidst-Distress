@@ -1,0 +1,203 @@
+.nav11{
+    display: flex;
+    background-color:rgb(4, 4, 66);
+    width: 100%;
+    height: 125px;
+    font-size: 48px;
+}
+.nav11 p{
+    padding-left: 70px;
+    align-items: center;
+    color: white;
+  }
+  .heading p{
+    font-size: 72px;
+    font-weight: bolder;
+    padding-left:50px;
+    margin-top: 60px;
+  }
+  .content p{
+    font-size: 26px;
+    font-weight: bold;
+    padding-left: 50px;
+    width: 1200px;
+
+  }
+  .benefits img{
+    padding-left: 200px;
+
+  }
+  .types p{
+    font-size: 72px;
+    font-weight: bolder;
+    padding-left:50px;
+    margin-top: 60px;
+  }
+  .type1 h1{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left:50px;
+    
+  }
+  .type1 h2{
+    font-size: 32px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type1 p{
+    font-size: 24px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type1 video{
+    padding-left:200px;
+  }
+  .type1 button{
+    margin-left: 47%;
+    font-size:24px;
+    font-weight:bold;
+    color: rgb(4, 4, 50);
+  }
+  .type2 h1{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left:50px;
+    
+  }
+  .type2 h2{
+    font-size: 32px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type2 p{
+    font-size: 24px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type2 video{
+    padding-left:200px;
+  }
+  .type2 button{
+    margin-left:47%;
+    font-size:24px;
+    font-weight:bold;
+    color: rgb(4, 4, 50);
+  }
+  .type3 h1{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left:50px;
+    
+  }
+  .type3 h2{
+    font-size: 32px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type3 p{
+    font-size: 24px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type3 video{
+    padding-left:200px;
+  }
+  .type3 button{
+    margin-left:47%;
+    font-size:24px;
+    font-weight:bold;
+    color: rgb(4, 4, 50);
+  }
+  .type4 h1{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left:50px;
+    
+  }
+  .type4 h2{
+    font-size: 32px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type4 p{
+    font-size: 24px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type4 video{
+    padding-left:200px;
+  }
+  .type4 button{
+    margin-left:47%;
+    font-size:24px;
+    font-weight:bold;
+    color: rgb(4, 4, 50);
+  }
+  .type5 h1{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left:50px;
+    
+  }
+  .type5 h2{
+    font-size: 32px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type5 p{
+    font-size: 24px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type5 video{
+    padding-left:200px;
+  }
+  .type5 button{
+    margin-left:47%;
+    font-size:24px;
+    font-weight:bold;
+    color: rgb(4, 4, 50);
+  }
+  .type6 h1{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left:50px;
+    
+  }
+  .type6 h2{
+    font-size: 32px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type6 p{
+    font-size: 24px;
+    font-weight: bolder;
+    padding-left:75px;
+  }
+  .type6 video{
+    padding-left:200px;
+  }
+  .type6 button{
+    margin-left:47%;
+    font-size:24px;
+    font-weight:bold;
+    color: rgb(4, 4, 50);
+  }
+  .foot {
+    background-color:rgb(4, 4, 66) ;
+    margin-top: 60px;
+}
+.foot p{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 40px;
+    text-align: center;
+}
+
+.thaught{
+  margin-top: 60px;
+  width:100%;
+  display: flex;
+  background-color: black;
+}
